@@ -62,13 +62,13 @@
     },
     {
       "path": "package-lock.json",
-      "bytes": 94587,
-      "sha256": "ca1b59ed70be26c04086c582766e3cd9af0789ec1d09cd111ea074d34c28226e"
+      "bytes": 106608,
+      "sha256": "909c7e0220bdbb6570421f8ef96f98136ead2fb56b03a6270a339c1625756e4e"
     },
     {
       "path": "package.json",
-      "bytes": 692,
-      "sha256": "1465b745deb02bb903d60e49f962f8a7ca4cfffe77b9c162f630807141705e3f"
+      "bytes": 733,
+      "sha256": "f109c5863f7617d68103e051ad4a1e78f270b3200180221156bf953af110f311"
     },
     {
       "path": "preview/reference.mp4",

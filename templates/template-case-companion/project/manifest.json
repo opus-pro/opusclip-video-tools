@@ -64,13 +64,13 @@
     },
     {
       "path": "package-lock.json",
-      "sha256": "fd6792e1444f7d8c7f68b7297c3fee16c84b24f8878d1c3e4825cdaca652eb11",
+      "sha256": "4e6065e1d826e96b4f4a3a0b2d626960642173927f33bbc2ab5fff5555433db9",
       "bytes": 118193
     },
     {
       "path": "package.json",
-      "sha256": "26299517eba309d7efa5852e421193725a4be0b0fb33f52f1a421e712f1a4d22",
-      "bytes": 826
+      "sha256": "ecb988b6d0e16b51743b255ff91b289ec992e5cd1edc0e9f4a218fedf4ca2887",
+      "bytes": 867
     },
     {
       "path": "poster.jpg",
